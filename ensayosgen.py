@@ -4,10 +4,13 @@
 class Contenidos:
     __init__=
         Abstract = "NA"
-        Conclusiones = "NA"
+        Conclusioon = "NA"
 
-        Encabezados = "NA"
-        Contenido = "NA"  
+        Encabezado = "NA"
+        Contenido = "NA" 
+        Referencia = "NA"
+        Marginal = "NA"
+        Interactuable = "NA"
 
     def Contenidos():
 
@@ -26,13 +29,14 @@ class Contenidos:
 
     def Puublico():
 
+    def Referencias():
+
     
 
-    def core():
 
 
 
-class printer():
+class core():
     with open("hello.txt") as my_file:
         my_file.write()
         print(my_file.read())
