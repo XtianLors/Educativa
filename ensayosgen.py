@@ -2,17 +2,41 @@
 
 
 class Contenidos:
-    __init__=""
+    __init__=
+        Abstract = "NA"
+        Conclusiones = "NA"
 
-    def 
+        Encabezados = "NA"
+        Contenido = "NA"  
 
-Abstract = ""
-Conclusiones = ""
-
-Encabezados = ""
-Contenido = ""
+    def Contenidos():
 
 
-with open("hello.txt") as my_file:
-    my_file.write()
-    print(my_file.read())
+    def Temas():
+
+
+
+    def Dimensiones():
+
+
+
+    def Disenios():
+
+
+
+    def Puublico():
+
+    
+
+    def core():
+
+
+
+class printer():
+    with open("hello.txt") as my_file:
+        my_file.write()
+        print(my_file.read())
+
+
+
+
